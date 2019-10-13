@@ -8,7 +8,7 @@
 1. lather
 2. rinse
 3. repeat
-![IMAGINE](imagine.jpg =100x20)
+![IMAGINE](imagine.jpg){:height="36px" width="36px"}
 
 ## Blockquotes
 He said : 
