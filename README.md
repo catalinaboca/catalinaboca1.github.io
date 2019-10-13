@@ -8,7 +8,7 @@
 1. lather
 2. rinse
 3. repeat
-![alt IMAGINE](imagine.jpg)
+![alt IMAGINE](imagine.jpg=100x20)
 
 ## Blockquotes
 He said : 
