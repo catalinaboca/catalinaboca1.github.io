@@ -8,4 +8,4 @@
 1. lather
 2. rinse
 3. repeat
-![alt IMAGINE](imagine.JPG)
+![alt IMAGINE](imagine.jpg)
